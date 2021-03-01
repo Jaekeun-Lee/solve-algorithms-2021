@@ -1,15 +1,14 @@
-/*
- * 
- * 2019 īī�� ������ �ܿ� ���Ͻ� ũ���� �����̱� ���� 
- * https://programmers.co.kr/learn/courses/30/lessons/64061
- * 
- */
-
 package kakao;
 
 import java.util.Stack;
 
 public class ClawCraneGame {
+
+	/**
+	 *
+	 * https://programmers.co.kr/learn/courses/30/lessons/64061
+	 *
+	 */
 
 	public static int solution(int[][] board, int[] moves) {
 
