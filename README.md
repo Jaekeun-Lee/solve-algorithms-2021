@@ -3,11 +3,17 @@
 
 ---
 
-###[programmers](https://github.com/Jaekeun-Lee/solve-algorithms-2021/tree/master/src/programmers)
+[programmers](https://github.com/Jaekeun-Lee/solve-algorithms-2021/tree/master/src/programmers)
+```
+ src
+  |-- openchallenge
+  |-- programmers
+            |-- kakao
+            |-- Level1
+            |-- Level2
+            |-- Level3
+            
+```
 
-  * kakao
-  * Level1
-  * Level2
-  * Level3
-  
+
 
