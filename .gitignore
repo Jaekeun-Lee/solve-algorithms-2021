@@ -1,4 +1,4 @@
 # Project exclude paths
 /out/
 /.idea/
-/programmers-algorithm.iml
+/*.iml
